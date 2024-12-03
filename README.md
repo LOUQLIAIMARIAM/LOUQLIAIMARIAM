@@ -58,6 +58,7 @@
   🚀 Let's connect and build something amazing together!
 </h3>
 
+---
 <div>
   <p>I'm always open to learning, collaborating, and innovating. Reach out if you're interested in working on exciting projects, or if you just want to chat about tech!</p>
   <a href="mailto:louqliaimariam@gmail.com">
